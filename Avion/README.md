@@ -2,7 +2,7 @@
 
 [Subject](https://open.kattis.com/problems/avion)
 
-Difficulty: <span style="color:lime">1.4 (Easy)</span>
+Difficulty: $\textcolor{lime}{\text{1.4 (Easy)}}$ 
 
 ## Code golf ranking
 
@@ -12,7 +12,7 @@ Ranking may (very probably) have changed
 |:--:|:------------------:|:------:|:--------:|:-------------------:|
 | 1  | Mattéo Delabre     | 62     | Python 3 | 2022-09-30 11:39:11 |
 | 2  | Kacem Khaled       | 62     | Python 3 | 2022-10-11 16:08:30 |
-| 3  | <span style="color:gold">Jaydan Aladro Hawe </span> | 62     | Python 3 | 2022-10-13 18:18:43 |
+| 3  | $\textcolor{gold}{\text{Jaydan Aladro Hawe}}$ | 62     | Python 3 | 2022-10-13 18:18:43 |
 | 4  | Thomas Feld        | 63     | Ruby     | 2022-11-02 08:56:33 |
 | 5  | Mathias Rav        | 82     | Python 3 | 2021-10-03 05:01:55 |
 | 6  | David Loftus       | 83     | Python 3 | 2020-01-07 17:16:58 |

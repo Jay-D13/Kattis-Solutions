@@ -2,4 +2,4 @@
 
 [Subject](https://open.kattis.com/problems/addtwonumbers)
 
-Difficulty: <span style="color:lime">1.4 (Easy)</span>
+Difficulty: $\textcolor{lime}{\text{1.4 (Easy)}}$ 

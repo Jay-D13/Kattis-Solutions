@@ -2,7 +2,7 @@
 
 [Subject](https://open.kattis.com/problems/pieceofcake2)
 
-Difficulty: <span style="color:lime">2.5 (Easy)</span>
+Difficulty: $\textcolor{lime}{\text{2.5 (Easy)}}$
 
 ## Code golf ranking
 

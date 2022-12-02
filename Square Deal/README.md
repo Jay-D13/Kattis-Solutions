@@ -2,7 +2,7 @@
 
 [Subject](https://open.kattis.com/problems/squaredeal)
 
-Difficulty: <span style="color:orange">4.0 (Medium)</span>
+Difficulty: $\textcolor{orange}{\text{4.0 (Medium)}}$
 
 ## Code golf ranking
 
@@ -10,7 +10,7 @@ Ranking may (very probably) have changed.
 
 |  # |        User        | Length | Language |         Date        |
 |:--:|:------------------:|:------:|:--------:|:-------------------:|
-| 1  | <span style="color:gold">Jaydan Aladro Hawe </span> | 111    | Python 3 | 2022-11-25 01:07:16 |
+| 1  | $\textcolor{gold}{\text{Jaydan Aladro Hawe}}$ | 111    | Python 3 | 2022-11-25 01:07:16 |
 | 2  | Yong               | 273    | Python 3 | 2022-11-26 20:57:31 |
 | 3  | Kasper Borys       | 331    | Python 2 | 2017-04-10 14:48:00 |
 | 4  | Kakuma Abera       | 391    | C++      | 2019-11-22 07:39:57 |

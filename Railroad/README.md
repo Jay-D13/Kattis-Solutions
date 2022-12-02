@@ -2,7 +2,7 @@
 
 [Subject](https://open.kattis.com/problems/railroad2)
 
-Difficulty: <span style="color:lime">1.5 (Easy)</span>
+Difficulty: $\textcolor{lime}{\text{1.5 (Easy)}}$
 
 ## Code golf ranking
 
@@ -14,7 +14,7 @@ Ranking may (very probably) have changed.
 | 2  | Thomas Feld                                                     | 37     | Ruby     | 2022-11-02 04:13:33 |
 | 3  | Kacem Khaled                                                    | 41     | Python 3 | 2022-10-14 00:02:29 |
 | 4  | Joas Haunstrup                                                  | 41     | Python 3 | 2022-10-16 09:34:34 |
-| 5  | <span style="color:gold">Jaydan Aladro Hawe </span> | 41     | Python 3 | 2022-10-20 22:56:48 |
+| 5  | $\textcolor{gold}{\text{Jaydan Aladro Hawe}}$ | 41     | Python 3 | 2022-10-20 22:56:48 |
 | 6  | Evan Rose                                                       | 41     | Python 3 | 2022-11-11 14:48:59 |
 | 7  | Blake Herrera                                                   | 41     | Python 3 | 2022-11-11 19:24:47 |
 | 8  | Mattéo Delabre                                                  | 46     | Python 3 | 2022-10-13 23:52:22 |

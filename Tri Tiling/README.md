@@ -2,7 +2,7 @@
 
 [Subject](https://open.kattis.com/problems/tritiling)
 
-Difficulty: <span style="color:lime">2.5 (Easy)</span>
+Difficulty: $\textcolor{lime}{\text{2.5 (Easy)}}$
 
 ## Code golf ranking
 
@@ -10,7 +10,7 @@ Ranking may (very probably) have changed.
 
 |  # |        User        | Length |          Language         |         Date        |
 |:--:|:------------------:|:------:|:-------------------------:|:-------------------:|
-| 1  | <span style="color:gold">Jaydan Aladro Hawe </span> | 70     | Python 3                  | 2022-11-18 16:23:21 |
+| 1  | $\textcolor{gold}{\text{Jaydan Aladro Hawe}}$ | 70     | Python 3                  | 2022-11-18 16:23:21 |
 | 2  | Mattéo Delabre     | 102    | Python 3                  | 2022-11-18 10:46:24 |
 | 3  | a_b__c             | 128    | Python 3                  | 2021-03-07 07:04:47 |
 | 4  | Hidden user        | 152    | Python 3                  | 2016-08-21 09:43:56 |

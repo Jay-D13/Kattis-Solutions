@@ -2,7 +2,7 @@
 
 [Subject](https://open.kattis.com/problems/commercials)
 
-Difficulty: <span style="color:lime">1.8 (Easy)</span>
+Difficulty: $\textcolor{lime}{\text{1.8 (Easy)}}$
 
 ## Code golf ranking
 
@@ -12,7 +12,7 @@ Ranking may (very probably) have changed.
 |:--:|:-------------------------:|:------:|:--------:|:-------------------:|
 | 1  | Thomas Feld               | 62     | Ruby     | 2022-11-25 06:10:21 |
 | 2  | Mattéo Delabre            | 73     | Ruby     | 2022-11-16 12:42:55 |
-| 3  | <span style="color:gold">Jaydan Aladro Hawe </span>        | 87     | Python 3 | 2022-11-16 12:36:10 |
+| 3  | $\textcolor{gold}{\text{Jaydan Aladro Hawe}}$        | 87     | Python 3 | 2022-11-16 12:36:10 |
 | 4  | Stefan Kennedy            | 129    | Python 3 | 2019-01-03 08:09:49 |
 | 5  | Scott Graham              | 133    | Python 3 | 2022-11-14 16:37:47 |
 | 6  | ZACKARY MICHAEL GLAZEWSKI | 136    | Python 3 | 2022-11-13 00:07:20 |

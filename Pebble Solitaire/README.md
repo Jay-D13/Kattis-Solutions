@@ -2,7 +2,7 @@
 
 [Subject](https://open.kattis.com/problems/pebblesolitaire)
 
-Difficulty: <span style="color:lime">2.3 (Easy)</span>
+Difficulty: $\textcolor{lime}{\text{2.3 (Easy)}}$
 
 ## Code golf ranking
 
@@ -10,7 +10,7 @@ Ranking may (very probably) have changed
 
 |  # |        User        | Length | Language |         Date        |
 |:--:|:------------------:|:------:|:--------:|:-------------------:|
-| 1  | <span style="color:gold">Jaydan Aladro Hawe </span>| 155    | Python 3 | 2022-10-09 23:33:05 |
+| 1  | $\textcolor{gold}{\text{Jaydan Aladro Hawe}}$ | 155    | Python 3 | 2022-10-09 23:33:05 |
 | 2  | Mattéo Delabre     | 155    | Python 3 | 2022-10-10 09:29:33 |
 | 3  | Kacem Khaled       | 212    | Python 3 | 2022-10-15 22:02:24 |
 | 4  | Frédéric Jarjour   | 312    | Python 3 | 2022-10-08 14:15:55 |

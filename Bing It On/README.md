@@ -2,7 +2,7 @@
 
 [Subject](https://open.kattis.com/problems/bing)
 
-Difficulty: <span style="color:orange">3.3 (Medium)</span>
+Difficulty: $\textcolor{orange}{\text{3.3 (Medium)}}$
 
 ## Code golf ranking
 
@@ -11,7 +11,7 @@ Ranking may (very probably) have changed
 |  # |          User         | Length | Language |         Date        |
 |:--:|:---------------------:|:------:|:--------:|:-------------------:|
 | 1  | Kacem Khaled          | 113    | Python 3 | 2022-10-21 16:57:46 |
-| 2  | <span style="color:gold">Jaydan Aladro Hawe </span>    | 115    | Python 3 | 2022-10-10 13:00:53 |
+| 2  | $\textcolor{gold}{\text{Jaydan Aladro Hawe}}$    | 115    | Python 3 | 2022-10-10 13:00:53 |
 | 3  | Mattéo Delabre        | 130    | Python 3 | 2022-10-06 18:48:42 |
 | 4  | Ainun Najib           | 180    | Python 3 | 2020-09-22 10:50:54 |
 | 5  | Paul-Andre Henegar    | 183    | Python 3 | 2021-03-29 22:58:30 |

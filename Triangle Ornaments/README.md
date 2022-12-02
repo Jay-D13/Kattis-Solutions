@@ -2,7 +2,7 @@
 
 [Subject](https://open.kattis.com/problems/triangleornaments)
 
-Difficulty: <span style="color:lime">2.1 (Easy)</span>
+Difficulty: $\textcolor{lime}{\text{2.1 (Easy)}}$
 
 ## Code golf ranking
 
@@ -10,7 +10,7 @@ Ranking may (very probably) have changed.
 
 |  # |           User           | Length | Language |         Date        |
 |:--:|:------------------------:|:------:|:--------:|:-------------------:|
-| 1  | <span style="color:gold">Jaydan Aladro Hawe </span>      | 154    | Python 3 | 2022-11-18 10:58:57 |
+| 1  | $\textcolor{gold}{\text{Jaydan Aladro Hawe}}$      | 154    | Python 3 | 2022-11-18 10:58:57 |
 | 2  | a_b__c                   | 175    | Python 3 | 2021-01-08 23:36:26 |
 | 3  | Alexei Fedotov           | 191    | Python 3 | 2018-06-11 17:01:14 |
 | 4  | Sigurður Jens Albertsson | 195    | Python 2 | 2018-10-02 08:11:59 |

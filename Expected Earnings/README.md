@@ -2,7 +2,7 @@
 
 [Subject](https://open.kattis.com/problems/expectedearnings)
 
-Difficulty: <span style="color:lime">1.9 (Easy)</span>
+Difficulty: $\textcolor{lime}{\text{1.9 (Easy)}}$
 
 ## Code golf ranking
 
@@ -10,7 +10,7 @@ Ranking may (very probably) have changed
 
 |  # |           User           | Length | Language |         Date        |
 |:--:|:------------------------:|:------:|:--------:|:-------------------:|
-| 1  | <span style="color:gold">Jaydan Aladro Hawe </span>       | 64     | Python 3 | 2022-10-13 22:42:25 |
+| 1  | $\textcolor{gold}{\text{Jaydan Aladro Hawe}}$ | 64     | Python 3 | 2022-10-13 22:42:25 |
 | 2  | Thomas Feld              | 65     | Python 3 | 2022-08-25 07:19:03 |
 | 3  | Morten Clausen           | 68     | Python 3 | 2022-10-15 13:42:26 |
 | 4  | Arman Shamsgovara        | 69     | Python 3 | 2022-11-25 19:07:17 |
