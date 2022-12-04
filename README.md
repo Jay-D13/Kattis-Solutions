@@ -10,3 +10,5 @@ Files with "_golfed" are [code golfed](https://en.wikipedia.org/wiki/Code_golf) 
 
 I enjoy making my way up in the leaderboards in term of shortest solutions 😊\
 It helps deeply understand the nuances of a language and fully master it.
+
+(P.S. some folders only have the golfed version because I have a bad habit of jumping right into golfing!)
