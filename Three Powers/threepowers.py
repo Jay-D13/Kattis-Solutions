@@ -1,0 +1,1 @@
+while i:=int(input()):print("{ "+", ".join(str(3**j) for j in range(len(bin(i)))if"1"==bin(i-1)[~j])+" }")
